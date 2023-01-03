@@ -3,3 +3,4 @@ function multiplyBy10NTimes(num, n){
         res=res*10
     return res
 }
+code completed
