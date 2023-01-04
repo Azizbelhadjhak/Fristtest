@@ -4,3 +4,4 @@ function multiplyBy10NTimes(num, n){
     return res
 }
 code completed
+valide code 
